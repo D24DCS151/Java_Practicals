@@ -1,1 +1,1 @@
-# Java_Practicals
+# java-practical-list
